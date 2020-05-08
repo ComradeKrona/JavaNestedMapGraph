@@ -1,5 +1,5 @@
 # JavaNestedMapGraph
-Data Structures (Spring 2020) - Java
+Java - Data Structures (Spring 2020)
 
 This is a project I worked on in my senior Data Structures class. The project was to create a graph from scratch and then to implement Dijkstra and A* using it. I decided to use a nested map structure (a hashmap with a vertex key and a treemap value which had a vertex key and an edge value). 
 
